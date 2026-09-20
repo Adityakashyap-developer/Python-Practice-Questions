@@ -1,2 +1,0 @@
-# Python-Practice-Questions
-PYTHON
